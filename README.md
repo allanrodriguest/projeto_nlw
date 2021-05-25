@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Projeto NLW</h1>
 
-# User Side
+# Client Page
 ![clientPage](https://user-images.githubusercontent.com/60073178/119563483-fa219a80-bd7d-11eb-864a-3081881c9268.jpg)
 
-# Server Side
+# Admin Page
 ![adminClientChat](https://user-images.githubusercontent.com/60073178/119563480-f9890400-bd7d-11eb-9124-9df78bccbdba.jpg)
 
 # Mais de um chat simultâneo
