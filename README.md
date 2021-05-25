@@ -1,4 +1,16 @@
+
+
 <h1 align="center">Projeto NLW</h1>
+
+# User Side
+![clientPage](https://user-images.githubusercontent.com/60073178/119563483-fa219a80-bd7d-11eb-864a-3081881c9268.jpg)
+
+# Server Side
+![adminClientChat](https://user-images.githubusercontent.com/60073178/119563480-f9890400-bd7d-11eb-9124-9df78bccbdba.jpg)
+
+# Mais de um chat simultâneo
+![adminPage](https://user-images.githubusercontent.com/60073178/119563481-f9890400-bd7d-11eb-838c-cf18b7b4f3c4.jpg)
+![adminPage2](https://user-images.githubusercontent.com/60073178/119563482-fa219a80-bd7d-11eb-95cc-ebdd2de1672f.jpg)
 
 ## 💻 Projeto
 
